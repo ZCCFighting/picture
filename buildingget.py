@@ -91,7 +91,7 @@ def get_video_size(video_path):
 
 
 
-
+print(start)
 show=get_video_size(0)
 #imageread('test.JPG')
 print(show)
